@@ -11,4 +11,13 @@
 
 ## 一些内容的链接
 
-用三级标题（如有需要，可用四级标题）和无序列表
+### [UML](http://www.uml.org.cn/oobject/201609092.asp)
+
+> [PlantUML](http://www.plantuml.com/plantuml):UML快速绘制工具
+> VSCode使用:PlantUML(plugin)
+> 可以参考 <https://blog.csdn.net/mzl87/article/details/88384011>
+
+- [状态图](https://zhuanlan.zhihu.com/p/78051066)
+- 用例图 Use-case
+  - [概念](https://zhuanlan.zhihu.com/p/135348779)
+  - 
